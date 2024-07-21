@@ -1,1 +1,1 @@
-# MNIST-Classification
+# MNIST Classification Model
