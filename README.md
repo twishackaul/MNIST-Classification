@@ -3,9 +3,8 @@
 #### Built a recognition using Artificial Neural Network (ANN) model. To train the ANN model, MNIST dataset was used. After successful training, the ANN model can predict the correct label to the given dataset values.
 #### The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems.
 #### The MNIST database consists of handwritten digits with a training set of 60,000 examples, and a test set of 10,000 examples.
-
-
-
+-
+-
 
 
 Sample images from MNIST test dataset:
